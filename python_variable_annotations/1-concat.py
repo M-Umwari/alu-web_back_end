@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""add function"""
+"""concat function"""
 
 
-def add(a: float, b: float) -> float:
-    """Add two numbers"""
-    return a + b
+def concat(str1: str, str2: str) -> str:
+    """add two strings"""
+    return str1 + str2
