@@ -1,1 +1,1 @@
-async generator
+# async comprehension
